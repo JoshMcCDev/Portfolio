@@ -12,7 +12,7 @@ Fast-paced accuracy game where players throw weapons at moving targets under rea
 **Gameplay**  
 ![Weapon throwing action shot with trajectory and target](https://media.licdn.com/dms/image/v2/D562DAQG63w31_BMqfA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767292157?e=1767294000&v=beta&t=FeYkjHWNSwpiZQlFOJbYPTjvEHhyuxkKBlXSnl-QXLI)
 
-**Main Menu & Store**  
+**Main Menu & Word Hunt**  
 ![Clean main menu and item shop interface](https://media.licdn.com/dms/image/v2/D562DAQETUUcDyDl8Pg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767277064?e=1767294000&v=beta&t=GralZuOm6Yg_WGNrFmySUSMRMph0Fiux_FH9cP0x6u8)  
 ![In-game store and word hunt features](https://media.licdn.com/dms/image/v2/D562DAQEQpo_CC1S62A/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767203442?e=1767294000&v=beta&t=6llNv7v62Kmw81amRgjNjZYh2G-wowm163bSqm2WY0o)
 
