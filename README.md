@@ -1,80 +1,98 @@
-# Portfolio
+# Projects & Portfolio
 
-## BugTracker
-> C++ · Azure SQL · GitHub · Qt · Git · Secure Authentication
-- Developed a comprehensive bug tracker application with advanced security measures.
-- Ensured robust user authentication through code verification, hashing, salting, and keying.
-- Secured data storage through Azure SQL Server and delivered an intuitive user interface using Qt.
-- Used git for the application’s version control.
-- Developed a comprehensive bug tracker application with advanced security measures.
-- Ensured robust user authentication through code verification, hashing, salting, and keying.
-- ecured data storage through Azure SQL Server and delivered an intuitive user interface using Qt.
-- Used git for the application’s version control.
+## ⚔️ Weapon Thrower – Physics-Based Skill Game
+**Unreal Engine · C++ · Blueprints · UI/UX Design · Physics · Gameplay Programming**
 
-### BugTracker Sign Up
-![Alt text](https://media.licdn.com/dms/image/v2/D562DAQFxVnwr9K5JIQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1703882256470?e=1767294000&v=beta&t=AWthYVA_BKAJ7-h8VV-vzHbmvR3BGhpoaoeHVLLAmV8)
-- When the sign up button is pressed it will validate each field, then it will hash, salt, and key the password. Once that is done the application will send a email verification code that the user will have to enter before the registration info gets sent to the azure sql server.When the sign up button is pressed it will validate each field, then it will hash, salt, and key the password. Once that is done the application will send a email verification code that the user will have to enter before the registration info gets sent to the azure sql server.
+Fast-paced accuracy game where players throw weapons at moving targets under realistic physics constraints.
 
-### BugTracker Login
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQHYfN_8E8RkqA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1703882106616?e=1767294000&v=beta&t=XnLwO6id0E_t1OvwKYGaVF49rd0Dytp2t6zfgsz2i8E)
-- When the login button is pressed the application will validate the log in info, checking email and password format and if it exists in the azure sql server.When the login button is pressed the application will validate the log in info, checking email and password format and if it exists in the azure sql server.
+- Developed core throwing mechanics, trajectory prediction, and hit detection using Unreal’s physics system
+- Designed modern main menu, store, word-hunt minigame, and in-game HUD with Unreal Motion Graphics (UMG)
+- Quickly adapted to Unreal Engine workflows, combining C++ performance-critical code with Blueprint prototyping
 
-  
-## Cookie Clicker
->  UML · Problem Solving · Overcome Obstacles · Java · Algorithms · JavaFX
-![Alrt_text](https://media.licdn.com/dms/image/v2/D562DAQH2bItf53-1uQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691766920317?e=1767294000&v=beta&t=3dpgiJg3WvChSLDW6mpv73khWWwTekL69q77OwyI1Cs)
-- Crafted "Cookie Clicker," an incremental Java game demonstrating proficiency in Java and UI design using JavaFX.
-### UML
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQFrq4rRJuZONg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766947054?e=1767294000&v=beta&t=hjv4xlcTF4yLQ8UORxckOWeqeBd2fpjf33FBjp6uKBE)
-- Showcased software development design by utilizing lucid charts to create class diagrams, underlining strong design and architecture skills.
+**Gameplay**  
+![Weapon throwing action shot with trajectory and target](https://media.licdn.com/dms/image/v2/D562DAQG63w31_BMqfA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767292157?e=1767294000&v=beta&t=FeYkjHWNSwpiZQlFOJbYPTjvEHhyuxkKBlXSnl-QXLI)
 
-## 🌐 Web Development 1 
-> Programming · JavaScript · HTML · Problem Solving · Cascading Style Sheets (CSS) · Programming Languages · Web Development · Algorithms
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQHF5A1hfOciNQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691767535877?e=1767294000&v=beta&t=RDWsPVx2G4knqTXS7XCHIwk_IQT-26T8_z1txXChJv0)
-- I present a website showcasing various web development projects.
-- This is where you can check out all the projects I have done.This is where you can check out all the projects I have done.
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQEEvr640glepw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691767649454?e=1767294000&v=beta&t=R0H0bL2NUvWnVRwBmsJcvYP5xxWwQY_-lYhV9Pa2jGw)
-- Pick a Card: A card picking game implemented with HTML, CSS, and JavaScript.
-- A card picking game implemented with HTML, CSS, and JavaScript.A card picking game implemented with HTML, CSS, and JavaScript.
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQFSVNkqb4sVRg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691767601751?e=1767294000&v=beta&t=O4YItyCpd68XmgFMImzcqxc2TIeSYxcm4o_8tbmYhpY)
-- Sign Language: A web app that translates words into sign language using HTML, CSS, and JavaScript.
-- A web app that translates words into sign language using HTML, CSS, and JavaScript.A web app that translates words into sign language using HTML, CSS, and JavaScript.
+**Main Menu & Store**  
+![Clean main menu and item shop interface](https://media.licdn.com/dms/image/v2/D562DAQETUUcDyDl8Pg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767277064?e=1767294000&v=beta&t=GralZuOm6Yg_WGNrFmySUSMRMph0Fiux_FH9cP0x6u8)  
+![In-game store and word hunt features](https://media.licdn.com/dms/image/v2/D562DAQEQpo_CC1S62A/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767203442?e=1767294000&v=beta&t=6llNv7v62Kmw81amRgjNjZYh2G-wowm163bSqm2WY0o)
 
-## 🎮 Computer Science 2 Project (C++)
-> C++ · Object-Oriented Programming (OOP) · Problem Solving · Overcome Obstacles · Algorithms
-> ![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQEQuyQqc1nQtg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766181657?e=1767294000&v=beta&t=krE7MeXrmGeMV7ZmtQ7JsKDHwex9Xbrl3QsbFgVHUqA)
-- Designed and developed a C++ geometry math game, demonstrating basic C++ and OOP skills.
+## 🐛 BugTracker – Secure Desktop Bug Management Application
+**C++ · Qt · Azure SQL Database · Secure Authentication (PBKDF2 + Salting) · Git**
 
-## 🎲 Data Structures Project 
-> C++ · UML · Object-Oriented Programming (OOP) · Problem Solving · Overcome Obstacles · Data Structures · Algorithms
-_ Developed the tower of Hanoi game with a twist—stacking letters instead of blocks, showcasing data structure implementation and problem-solving skills.
-### Demostrating the Tower of Hanoi Game
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQFF3Srecn6WlA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766718658?e=1767294000&v=beta&t=l32D5eK760TDUWpuEFEND4RmgMt-cdqPEN0qq7f40LM)
-### UML Graph
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQEtfXjhz2tNyw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691766671644?e=1767294000&v=beta&t=g89LDlombbIEe2kDMAfj_i32RyQCqKNU0lQwD7SgKWU)
+Developed a full-featured, secure bug-tracking desktop application with user management, issue tracking, and role-based access control.
 
-## 🗄️ Database System Project - (C++ SQL)
-> C++ · Programming · Problem Solving · Programming Languages · SQL · Overcome Obstacles · Algorithms · Databases
-• Designed a C++ text menu-based application that accesses and modifies a SQL database for a pizza business.
-• Highlighted database management skills and practical application of SQL.
-• Designed a C++ text menu-based application that accesses and modifies a SQL database for a pizza business. • Highlighted database management skills and practical application of SQL.
-### Demostrating the database system
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQEZqJ98SaN6Cg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766820169?e=1767294000&v=beta&t=sVE3h8mcu4lnkymqJCuwDq6sF1yko_jtSHT_Z4fn_AA)
-### The SQL Database
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQFF-E6Tphtnbg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766794793?e=1767294000&v=beta&t=_FGyafKfykd9srwVbLpq8KgMH1tA0BZKtkq_idqA8Ro)
+- Designed and implemented secure user registration & authentication system using input validation, password hashing (with salts and pepper/keying), and mandatory email verification code flow before account activation
+- Built intuitive cross-platform GUI with Qt, featuring responsive forms, real-time feedback, and clean error handling
+- Integrated Azure SQL Server for persistent, encrypted data storage and querying of users, bugs, projects, and comments
+- Managed complete development lifecycle using Git for version control, branching, and collaboration
+
+**Sign-up Flow**  
+![BugTracker Sign-up screen showing form validation and email verification step](https://media.licdn.com/dms/image/v2/D562DAQFxVnwr9K5JIQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1703882256470?e=1767294000&v=beta&t=AWthYVA_BKAJ7-h8VV-vzHbmvR3BGhpoaoeHVLLAmV8)
+
+**Login Interface**  
+![BugTracker login screen with credential validation](https://media.licdn.com/dms/image/v2/D562DAQHYfN_8E8RkqA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1703882106616?e=1767294000&v=beta&t=XnLwO6id0E_t1OvwKYGaVF49rd0Dytp2t6zfgsz2i8E)
+
+## 🍪 Cookie Clicker Clone
+**Java · JavaFX · GUI Design · UML Modeling · Algorithm Implementation**
+
+Recreated the classic incremental idle game to demonstrate strong object-oriented design, event-driven programming, and UI/UX skills.
+
+- Engineered core game mechanics including click-based resource generation, exponential upgrade scaling, and save/load functionality
+- Created polished, animated user interface using JavaFX with responsive layouts, visual effects, and smooth animations
+- Produced detailed UML class diagrams to document architecture before implementation, showcasing strong design-first approach
+
+**Gameplay Screenshot**  
+![Cookie Clicker interface with cookie counter, upgrades panel, and animations](https://media.licdn.com/dms/image/v2/D562DAQH2bItf53-1uQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691766920317?e=1767294000&v=beta&t=3dpgiJg3WvChSLDW6mpv73khWWwTekL69q77OwyI1Cs)
+
+**Class Diagram (UML)**  
+![UML class diagram created in Lucidchart showing game entity relationships](https://media.licdn.com/dms/image/v2/D562DAQFrq4rRJuZONg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766947054?e=1767294000&v=beta&t=hjv4xlcTF4yLQ8UORxckOWeqeBd2fpjf33FBjp6uKBE)
+
+## 🌐 Web Development Showcase
+**HTML · CSS · JavaScript · Responsive Design · DOM Manipulation**
+
+Personal portfolio website highlighting multiple client-side web projects with clean, modern design and interactive features.
+
+- **Pick a Card** — Fun random card-drawing website with flip a responsive layout
+- **Sign Language Translator** — Interactive tool that converts typed text into animated sign language graphics/videos using JavaScript logic and CSS animations
+
+**Portfolio Landing Page**  
+![Main portfolio website overview showing project cards](https://media.licdn.com/dms/image/v2/D562DAQHF5A1hfOciNQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691767535877?e=1767294000&v=beta&t=RDWsPVx2G4knqTXS7XCHIwk_IQT-26T8_z1txXChJv0)
+
+**Pick a Card Game**  
+![Interactive card picking game interface](https://media.licdn.com/dms/image/v2/D562DAQEEvr640glepw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691767649454?e=1767294000&v=beta&t=R0H0bL2NUvWnVRwBmsJcvYP5xxWwQY_-lYhV9Pa2jGw)
+
+**Sign Language Translator**  
+![Sign language visualization web app in action](https://media.licdn.com/dms/image/v2/D562DAQFSVNkqb4sVRg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691767601751?e=1767294000&v=beta&t=O4YItyCpd68XmgFMImzcqxc2TIeSYxcm4o_8tbmYhpY)
+
+## 🧩 Tower of Hanoi – Letter Stacking Variant
+**C++ · Data Structures (Stacks) · UML · OOP · Recursion · Problem Solving**
+
+Classic puzzle reimagined with letter tiles instead of disks, enforcing strict stacking rules and goal-state checking.
+
+- Implemented core logic using stack data structures to model poles and enforce move constraints
+- Added engaging twist: rearrange scrambled word into correct spelling using Hanoi rules
+- Created comprehensive UML diagrams to plan class structure (Game, Pole, Tile, Solver)
+
+**Gameplay Demo**  
+![Tower of Hanoi with letters being moved between poles](https://media.licdn.com/dms/image/v2/D562DAQFF3Srecn6WlA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766718658?e=1767294000&v=beta&t=l32D5eK760TDUWpuEFEND4RmgMt-cdqPEN0qq7f40LM)
+
+**UML Class Diagram**  
+![Detailed UML diagram for Tower of Hanoi letter variant](https://media.licdn.com/dms/image/v2/D562DAQEtfXjhz2tNyw/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691766671644?e=1767294000&v=beta&t=g89LDlombbIEe2kDMAfj_i32RyQCqKNU0lQwD7SgKWU)
+
+## 🍕 Pizza Ordering System (Console + Database)
+**C++ · SQL · Relational Databases · Text-based UI · CRUD Operations**
+
+Menu-driven console application for a pizza restaurant that interacts with a live SQL database.
+
+- Built complete CRUD system for orders, customers, menu items, and toppings
+- Designed normalized relational schema with proper foreign keys and constraints
+- Implemented robust input validation, transaction handling, and formatted output tables
+
+**Application Interface**  
+![Console-based pizza ordering menu in action](https://media.licdn.com/dms/image/v2/D562DAQEZqJ98SaN6Cg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766820169?e=1767294000&v=beta&t=sVE3h8mcu4lnkymqJCuwDq6sF1yko_jtSHT_Z4fn_AA)
+
+**Database Schema View**  
+![SQL Server table structure and sample data for pizza system](https://media.licdn.com/dms/image/v2/D562DAQFF-E6Tphtnbg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1691766794793?e=1767294000&v=beta&t=_FGyafKfykd9srwVbLpq8KgMH1tA0BZKtkq_idqA8Ro)
 
 
-## 🚀 The Weapon Thrower Project
-> C++ · Unreal Engine · Problem Solving · Blueprint · Data Structures · User Interface Design · Algorithms
-- Created a physics-based accuracy and skill-testing game using Unreal Engine, C++, and UI design.
-- Demonstrated proficiency in quickly learning and adapting to new frameworks, emphasizing adaptability and willingness to work with cutting-edge technologies.
-### Gameplay
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQG63w31_BMqfA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767292157?e=1767294000&v=beta&t=FeYkjHWNSwpiZQlFOJbYPTjvEHhyuxkKBlXSnl-QXLI)
-### Main Menu
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQETUUcDyDl8Pg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767277064?e=1767294000&v=beta&t=GralZuOm6Yg_WGNrFmySUSMRMph0Fiux_FH9cP0x6u8)
-### Word Hunt
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQEQpo_CC1S62A/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767203442?e=1767294000&v=beta&t=6llNv7v62Kmw81amRgjNjZYh2G-wowm163bSqm2WY0o)
-### Store
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQE01rILFml6tg/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767169350?e=1767294000&v=beta&t=DYXWJL5XdMdhn2kzUJLKTiE0GzcWGJg9IV7oqdoZns0)
-### Shop
-![Alt_text](https://media.licdn.com/dms/image/v2/D562DAQEIY0uhfICbFA/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1691767122603?e=1767294000&v=beta&t=Mam6_ZRyeh0JNzYwS6OMHj0Y884U2eFq0raO0V5hVnw)
+
